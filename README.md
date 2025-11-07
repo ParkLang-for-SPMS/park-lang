@@ -11,7 +11,7 @@
 ## Features
 
 - Define SPMS concepts with a tailored metamodel.
-- Generate three [C4 viewpoints](https://c4model.com/diagrams):
+- Generate three C4 viewpoints:
   - Context
   - Container
   - Component
