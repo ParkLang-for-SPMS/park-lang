@@ -33,7 +33,7 @@ ParkLang produces the following C4 viewpoints for architecture documentation:
 These views facilitate communication with stakeholders and support both design and documentation workflows.
 
 ---
-## 🚀 How to Open and Use the DSL in MetaEdit+
+## 🚀 How to Open and Use the DSL in [MetaEdit+](https://www.metacase.com/products.html)
 
 This repository contains a DSL created with **MetaEdit+**.  
 The DSL consists of two types of files:
