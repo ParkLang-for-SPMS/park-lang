@@ -3,7 +3,8 @@
 
 ## About
 
-**ParkLang** is a Domain-Specific Language (DSL) designed for Smart Parking Management Systems (SPMS). It enables users to automatically generate three viewpoints of the C4 model—Context, Container, and Component—and provides a valuable environment for software architecture design. ParkLang streamlines the creation of architectural artifacts and supports model exchange through MetaEdit+ using the Metamodel Exchange Template (.mxt) and Model Exchange Format (.mxm) files, both of which are included in this repository along with sample models.
+**ParkLang** is a Domain-Specific Language (DSL) designed for Smart Parking Management Systems (SPMS). It enables users to automatically generate three viewpoints of the C4 model—Context, Container, and Component—and provides a valuable environment for software architecture design. ParkLang streamlines the creation of architectural artifacts and supports model exchange through [MetaEdit+](https://www.metacase.com/products.html)
+ using the Metamodel Exchange Template (.mxt) and Model Exchange Format (.mxm) files, both of which are included in this repository along with sample models.
 
 ---
 
