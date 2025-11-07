@@ -22,7 +22,7 @@
 
 ---
 
-## C4 Viewpoints
+## [C4 Viewpoints](https://c4model.com/diagrams)
 
 ParkLang produces the following C4 viewpoints for architecture documentation:
 
