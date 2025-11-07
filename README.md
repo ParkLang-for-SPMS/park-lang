@@ -19,6 +19,7 @@
   - Metamodel: `.mxt` (Metamodel Exchange Template)
   - Models: `.mxm` (Model Exchange Format)
 - Sample models included to demonstrate typical SPMS architectures.
+- Software Requirements Specification (SRS) document for SPMS
 
 ---
 
