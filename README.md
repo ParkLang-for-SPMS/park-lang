@@ -33,4 +33,98 @@ ParkLang produces the following C4 viewpoints for architecture documentation:
 These views facilitate communication with stakeholders and support both design and documentation workflows.
 
 ---
+## 🚀 How to Open and Use the DSL in MetaEdit+
+
+This repository contains a DSL created with **MetaEdit+**.  
+The DSL consists of two types of files:
+
+| File Type | Extension | Purpose |
+|-----------|------------|----------|
+| MetaModel / Tool Definition | `.mxt` | Defines the DSL, editor, shapes, rules, etc. |
+| Model File | `.mxm` | Contains example models created using the DSL |
+
+---
+
+### ✅ Prerequisites
+
+Before you start:
+
+1. Install **MetaEdit+**  
+   👉 https://metacase.com/download
+2. Clone or download this repository:
+
+   ```bash
+   git clone https://github.com/<your-username>/<your-repo>.git
+   cd <your-repo>
+   ```
+
+3. Locate the `.mxt` and `.mxm` files in the repository.
+
+---
+
+### 📥 Step 1 — Start MetaEdit+
+
+1. Open **MetaEdit+**
+2. Log in (if using server edition)
+
+---
+
+### 📦 Step 2 — Import the DSL Metamodel (`.mxt` file)
+
+1. In MetaEdit+, go to:
+
+   ```
+   File → Import → Metamodel / Project / Tool (depends on version)
+   ```
+2. Select the `.mxt` file
+3. Complete the import
+
+> After importing, the DSL will appear in the list of available languages/tools.
+
+---
+
+### 📄 Step 3 — Import or Open Models (`.mxm` file)
+
+1. Go to:
+
+   ```
+   File → Import → Model
+   ```
+2. Select the `.mxm` file(s)
+3. If MetaEdit+ asks for a language/tool, choose the DSL you just imported
+
+---
+
+### ✏️ Step 4 — Open the DSL Editor
+
+- To create a new model using the DSL:
+
+  ```
+  File → New → <Your DSL Name>
+  ```
+
+- To open an imported model:
+  - Double-click the model in the MetaEdit+ workspace
+
+---
+
+### ⚙️ (Optional) Run Code Generators
+
+If the DSL includes code generators:
+
+```
+Tools → Generators → <Select Generator>
+```
+
+Output will be generated to the configured output location.
+
+---
+
+### 🛠 Troubleshooting
+
+| Issue | Fix |
+|--------|-----|
+| DSL not visible after import | Restart MetaEdit+ |
+| Shapes missing in model | Import `.mxt` before `.mxm` |
+| Import fails | Ensure MetaEdit+ version matches the one used for DSL development |
 
