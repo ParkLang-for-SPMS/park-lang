@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gxl dbName="spms" dbPath="spms" timeStamp="2025-11-05T01:42:56.074Z" version="5.6" xmlns="http://www.metacase.com/gxlGOPRRType" xmlns:ns="http://www.w3.org/1999/xlink" xmlns:sym="http://www.metacase.com/symbol">
+<gxl dbName="spms" dbPath="spms" timeStamp="2025-11-08T09:57:23.060Z" version="5.6" xmlns="http://www.metacase.com/gxlGOPRRType" xmlns:ns="http://www.w3.org/1999/xlink" xmlns:sym="http://www.metacase.com/symbol">
 	<graph id="Graph_Component_Diagram_umut_3939451124" type="Graph_Component_Diagram_umut_3939451124" typeName="Component Viewpoint">
 		<description></description>
 		<superType>
@@ -350,7 +350,7 @@
 							</superType>
 							<identProp slotID="aawxk7"></identProp>
 							<objectSymbol offset="15,20" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
-								<defaultConnectable isSticky="true" points="45,10 140,10 140,160 45,160 45,10" targetPointX="92.5" targetPointY="85" usesGrid="false"></defaultConnectable>
+								<defaultConnectable isSticky="true" points="45,15 135,15 135,155 45,155 45,15" targetPointX="90" targetPointY="85" usesGrid="false"></defaultConnectable>
 								<svg baseProfile="tiny" height="155" version="1.2" width="170" xmlns="http://www.w3.org/2000/svg">
 									<textArea display-align="after" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="15" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="125" x="30" y="105">
 										PropertyTextSource:aawxk7
@@ -360,14 +360,14 @@
 										ReportTextSource:'[Technologies: '  :Technology ']'
 										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 									</textArea>
-									<image height="84" ns:href="Object_User_Defined_Application_umut_3939492484-1.png" sym:scale="0.752688,0.736842" width="70" x="60" y="20">
+									<image height="85" ns:href="Object_User_Defined_Application_umut_3939492484-1.png" sym:scale="0.0830078,0.0830078" width="85" x="50" y="20">
 										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 									</image>
 								</svg>
 							</objectSymbol>
 							<icon offset="50,50" xmlns="http://www.metacase.com/icon">
-								<svg baseProfile="tiny" height="164" version="1.2" width="143" xmlns="http://www.w3.org/2000/svg">
-									<image height="114" ns:href="Object_User_Defined_Application_umut_3939492484-Icon-1.png" sym:scale="1,1" width="93" x="50" y="50"></image>
+								<svg baseProfile="tiny" height="1074" version="1.2" width="1074" xmlns="http://www.w3.org/2000/svg">
+									<image height="1024" ns:href="Object_User_Defined_Application_umut_3939492484-Icon-1.png" sym:scale="1,1" width="1024" x="50" y="50"></image>
 								</svg>
 							</icon>
 						</object>
@@ -409,24 +409,24 @@
 			</slot>
 			<identProp slotID="a0y8xq"></identProp>
 			<objectSymbol offset="0,25" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
-				<defaultConnectable isSticky="true" points="65,20 160,20 160,150 65,150 65,20" targetPointX="112.88" targetPointY="85.5652" usesGrid="false"></defaultConnectable>
+				<defaultConnectable isSticky="true" points="65,25 160,25 160,150 65,150 65,25" targetPointX="112.88" targetPointY="88.0435" usesGrid="false"></defaultConnectable>
 				<svg baseProfile="tiny" height="150" version="1.2" width="220" xmlns="http://www.w3.org/2000/svg">
 					<textArea display-align="after" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="20" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="220" x="0" y="110">
 						PropertyTextSource:a0y8xq
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</textArea>
-					<image height="80" ns:href="Object_Application__Context__umut_3939498341-1.png" sym:scale="0.752688,0.701754" width="70" x="80" y="25">
-						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
-					</image>
 					<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="20" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="95" x="65" y="130">
 						(Container)
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</textArea>
+					<image height="89" ns:href="Object_Application__Context__umut_3939498341-1.png" sym:scale="0.0927734,0.0869141" width="95" x="65" y="25">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</image>
 				</svg>
 			</objectSymbol>
 			<icon offset="50,50" xmlns="http://www.metacase.com/icon">
-				<svg baseProfile="tiny" height="164" version="1.2" width="143" xmlns="http://www.w3.org/2000/svg">
-					<image height="114" ns:href="Object_Application__Context__umut_3939498341-Icon-1.png" sym:scale="1,1" width="93" x="50" y="50"></image>
+				<svg baseProfile="tiny" height="1074" version="1.2" width="1074" xmlns="http://www.w3.org/2000/svg">
+					<image height="1024" ns:href="Object_Application__Context__umut_3939498341-Icon-1.png" sym:scale="1,1" width="1024" x="50" y="50"></image>
 				</svg>
 			</icon>
 		</object>
@@ -452,25 +452,25 @@
 				</object>
 			</superType>
 			<identProp slotID="a0y9ro"></identProp>
-			<objectSymbol offset="0,30" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
-				<defaultConnectable isSticky="true" points="25,30 125,30 125,140 25,140 25,30" targetPointX="75" targetPointY="85.7333" usesGrid="false"></defaultConnectable>
-				<svg baseProfile="tiny" height="135" version="1.2" width="150" xmlns="http://www.w3.org/2000/svg">
-					<image height="75" ns:href="Object_Service_umut_3939499542-1.png" sym:scale="0.608696,0.590551" width="70" x="40" y="30">
-						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
-					</image>
-					<textArea display-align="after" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="20" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="150" x="0" y="100">
+			<objectSymbol offset="10,25" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
+				<defaultConnectable isSticky="true" points="35,25 115,25 115,140 35,140 35,25" targetPointX="75" targetPointY="83.2666" usesGrid="false"></defaultConnectable>
+				<svg baseProfile="tiny" height="145" version="1.2" width="140" xmlns="http://www.w3.org/2000/svg">
+					<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="30" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="130" x="10" y="100">
 						PropertyTextSource:a0y9ro
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</textArea>
-					<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="12" font-style="normal" font-weight="normal" height="15" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="130" x="10" y="120">
+					<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="12" font-style="normal" font-weight="normal" height="15" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="130" x="10" y="130">
 						ReportTextSource:'&lt;&lt;' type '&gt;&gt;'
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</textArea>
+					<image height="75" ns:href="Object_Service_umut_3939499542-1.png" sym:scale="0.078125,0.0732422" width="80" x="35" y="25">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</image>
 				</svg>
 			</objectSymbol>
 			<icon offset="50,50" xmlns="http://www.metacase.com/icon">
-				<svg baseProfile="tiny" height="177" version="1.2" width="165" xmlns="http://www.w3.org/2000/svg">
-					<image height="127" ns:href="Object_Service_umut_3939499542-Icon-1.png" sym:scale="1,1" width="115" x="50" y="50"></image>
+				<svg baseProfile="tiny" height="1074" version="1.2" width="1074" xmlns="http://www.w3.org/2000/svg">
+					<image height="1024" ns:href="Object_Service_umut_3939499542-Icon-1.png" sym:scale="1,1" width="1024" x="50" y="50"></image>
 				</svg>
 			</icon>
 		</object>
@@ -508,25 +508,25 @@
 				<object href="#Object_Service_umut_3939498996"></object>
 			</superType>
 			<identProp slotID="a0y9ro"></identProp>
-			<objectSymbol offset="1,20" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
-				<defaultConnectable isSticky="true" points="20,15 125,15 125,125 20,125 20,15" targetPointX="72.5" targetPointY="70.7333" usesGrid="false"></defaultConnectable>
-				<svg baseProfile="tiny" height="125" version="1.2" width="150" xmlns="http://www.w3.org/2000/svg">
-					<textArea display-align="after" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="20" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="149" x="1" y="90">
+			<objectSymbol offset="1,15" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
+				<defaultConnectable isSticky="true" points="20,15 130,15 130,125 20,125 20,15" targetPointX="75" targetPointY="70.7333" usesGrid="false"></defaultConnectable>
+				<svg baseProfile="tiny" height="125.0" version="1.2" width="150" xmlns="http://www.w3.org/2000/svg">
+					<textArea display-align="after" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="20.0" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="149" x="1" y="90.0">
 						PropertyTextSource:a0y9ro
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</textArea>
-					<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="12" font-style="normal" font-weight="normal" height="15" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="130" x="10" y="110">
+					<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="12" font-style="normal" font-weight="normal" height="15.0" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="130" x="10" y="110.0">
 						ReportTextSource:'&lt;&lt;' type '&gt;&gt;'
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</textArea>
-					<image height="70" ns:href="Object_Controller_umut_3939505626-1.png" sym:scale="0.637255,0.57377" width="65" x="40" y="20">
+					<image height="75.1742" ns:href="Object_Controller_umut_3939505626-1.png" sym:scale="0.0929152,0.087108" width="80" x="35" y="15">
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</image>
 				</svg>
 			</objectSymbol>
 			<icon offset="50,50" xmlns="http://www.metacase.com/icon">
-				<svg baseProfile="tiny" height="172" version="1.2" width="152" xmlns="http://www.w3.org/2000/svg">
-					<image height="122" ns:href="Object_Controller_umut_3939505626-Icon-1.png" sym:scale="1,1" width="102" x="50" y="50"></image>
+				<svg baseProfile="tiny" height="913" version="1.2" width="911" xmlns="http://www.w3.org/2000/svg">
+					<image height="863" ns:href="Object_Controller_umut_3939505626-Icon-1.png" sym:scale="1,1" width="861" x="50" y="50"></image>
 				</svg>
 			</icon>
 		</object>
@@ -582,9 +582,12 @@
 								<property href="#Property_Description_umut_3939578622"></property>
 							</slot>
 							<identProp slotID="aewxp9"></identProp>
-							<objectSymbol offset="10,20" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
+							<objectSymbol offset="10,10" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
 								<defaultConnectable isSticky="true" points="30,15 155,15 155,137 30,137 30,15" targetPointX="92.5" targetPointY="76" usesGrid="false"></defaultConnectable>
 								<svg baseProfile="tiny" height="135" version="1.2" width="175" xmlns="http://www.w3.org/2000/svg">
+									<image height="100" ns:href="Object_DataStore_umut_3939468115-1.png" sym:scale="0.0830078,0.0976562" width="85" x="50" y="10">
+										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+									</image>
 									<textArea display-align="after" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="15" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="125" x="30" y="105">
 										PropertyTextSource:aewxp9
 										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
@@ -593,14 +596,11 @@
 										ReportTextSource:'[Technologies: '  :Technology ']'
 										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 									</textArea>
-									<image height="88" ns:href="Object_DataStore_umut_3939468115-1.png" sym:scale="0.882353,0.854369" width="75" x="55" y="20">
-										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
-									</image>
 								</svg>
 							</objectSymbol>
-							<icon offset="50,50" xmlns="http://www.metacase.com/icon">
-								<svg baseProfile="tiny" height="153" version="1.2" width="135" xmlns="http://www.w3.org/2000/svg">
-									<image height="103" ns:href="Object_DataStore_umut_3939468115-Icon-1.png" sym:scale="1,1" width="85" x="50" y="50"></image>
+							<icon offset="32,18" xmlns="http://www.metacase.com/icon">
+								<svg baseProfile="tiny" height="118" version="1.2" width="117" xmlns="http://www.w3.org/2000/svg">
+									<image height="100" ns:href="Object_DataStore_umut_3939468115-Icon-1.png" sym:scale="0.0830078,0.0976562" width="85" x="32" y="18"></image>
 								</svg>
 							</icon>
 						</object>
@@ -608,25 +608,25 @@
 				</property>
 			</slot>
 			<identProp slotID="a0y9ro"></identProp>
-			<objectSymbol offset="20,20" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
-				<defaultConnectable isSticky="true" points="55,15 155,15 155,125 55,125 55,15" targetPointX="105" targetPointY="70.7333" usesGrid="false"></defaultConnectable>
-				<svg baseProfile="tiny" height="125" version="1.2" width="190" xmlns="http://www.w3.org/2000/svg">
-					<textArea display-align="after" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="20" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="170" x="20" y="90">
+			<objectSymbol offset="20,15" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
+				<defaultConnectable isSticky="true" points="60,20 150,20 150,135 60,135 60,20" targetPointX="105" targetPointY="78.2667" usesGrid="false"></defaultConnectable>
+				<svg baseProfile="tiny" height="135" version="1.2" width="190" xmlns="http://www.w3.org/2000/svg">
+					<image height="90" ns:href="Object_Repository_umut_3939505955-1.png" sym:scale="0.0878906,0.0878906" width="90" x="60" y="15">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</image>
+					<textArea display-align="after" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="20" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="170" x="20" y="100">
 						PropertyTextSource:a0y9ro
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</textArea>
-					<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="12" font-style="normal" font-weight="normal" height="15" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="130" x="40" y="110">
+					<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="12" font-style="normal" font-weight="normal" height="15" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="130" x="40" y="120">
 						ReportTextSource:'&lt;&lt;' type '&gt;&gt;'
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</textArea>
-					<image height="75" ns:href="Object_Repository_umut_3939505955-1.png" sym:scale="0.823529,0.728155" width="70" x="70" y="20">
-						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
-					</image>
 				</svg>
 			</objectSymbol>
-			<icon offset="50,50" xmlns="http://www.metacase.com/icon">
-				<svg baseProfile="tiny" height="153" version="1.2" width="135" xmlns="http://www.w3.org/2000/svg">
-					<image height="103" ns:href="Object_Repository_umut_3939505955-Icon-1.png" sym:scale="1,1" width="85" x="50" y="50"></image>
+			<icon offset="29,19" xmlns="http://www.metacase.com/icon">
+				<svg baseProfile="tiny" height="109" version="1.2" width="119" xmlns="http://www.w3.org/2000/svg">
+					<image height="90" ns:href="Object_Repository_umut_3939505955-Icon-1.png" sym:scale="0.0878906,0.0878906" width="90" x="29" y="19"></image>
 				</svg>
 			</icon>
 		</object>
@@ -710,25 +710,25 @@
 								<property href="#Property_Description_umut_3939578622"></property>
 							</slot>
 							<identProp slotID="a6wj51"></identProp>
-							<objectSymbol offset="50,10" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
-								<defaultConnectable isSticky="true" points="50,5 185,5 185,160 50,160 50,5" targetPointX="117.5" targetPointY="83.0345" usesGrid="false"></defaultConnectable>
-								<svg baseProfile="tiny" height="155" version="1.2" width="185" xmlns="http://www.w3.org/2000/svg">
-									<textArea display-align="after" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="20" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="135" x="50" y="115">
+							<objectSymbol offset="30,5" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
+								<defaultConnectable isSticky="true" points="60,5 180,5 180,155 60,155 60,5" targetPointX="120" targetPointY="80" usesGrid="false"></defaultConnectable>
+								<svg baseProfile="tiny" height="155" version="1.2" width="210" xmlns="http://www.w3.org/2000/svg">
+									<textArea display-align="after" fill="rgb(0,0,0)" font-family="#sans serif" font-size="16" font-style="normal" font-weight="normal" height="20" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="180" x="30" y="115">
 										PropertyTextSource:a6wj51
 										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 									</textArea>
-									<image height="107" ns:href="Object_Stakeholder_umut_3939458441-1.png" sym:scale="1,1" width="98" x="70" y="10">
-										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
-									</image>
-									<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="12" font-style="normal" font-weight="normal" height="20" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="135" x="50" y="135">
+									<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="20" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="135" x="50" y="135">
 										(Other Stakeholder)
 										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 									</textArea>
+									<image height="105" ns:href="Object_Stakeholder_umut_3939458441-1.png" sym:scale="0.114811,0.111229" width="100" x="70" y="5">
+										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+									</image>
 								</svg>
 							</objectSymbol>
 							<icon offset="50,50" xmlns="http://www.metacase.com/icon">
-								<svg baseProfile="tiny" height="157" version="1.2" width="148" xmlns="http://www.w3.org/2000/svg">
-									<image height="107" ns:href="Object_Stakeholder_umut_3939458441-Icon-1.png" sym:scale="1,1" width="98" x="50" y="50"></image>
+								<svg baseProfile="tiny" height="93" version="1.2" width="93" xmlns="http://www.w3.org/2000/svg">
+									<image height="43" ns:href="Object_Stakeholder_umut_3939458441-Icon-1.png" sym:scale="1,1" width="43" x="50" y="50"></image>
 								</svg>
 							</icon>
 						</object>
@@ -740,21 +740,21 @@
 								<object href="#Object_Stakeholder_umut_3939458441"></object>
 							</superType>
 							<identProp slotID="a6wj51"></identProp>
-							<objectSymbol offset="50,5" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
-								<defaultConnectable isSticky="true" points="50,5 210,5 210,200 50,200 50,5" targetPointX="130" targetPointY="103.172" usesGrid="false"></defaultConnectable>
-								<svg baseProfile="tiny" height="200" version="1.2" width="210" xmlns="http://www.w3.org/2000/svg">
-									<image height="150" ns:href="Object_DriverStakeholder_umut_3939458617-1.png" sym:scale="1.31148,1.22951" width="160" x="50" y="5">
-										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
-									</image>
-									<textArea display-align="center" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="40" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="160" x="50" y="160">
+							<objectSymbol offset="1,1" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
+								<defaultConnectable isSticky="true" points="16,40 191,40 191,285 16,285 16,40" targetPointX="103.5" targetPointY="162.5" usesGrid="false"></defaultConnectable>
+								<svg baseProfile="tiny" height="285" version="1.2" width="205" xmlns="http://www.w3.org/2000/svg">
+									<textArea display-align="center" fill="rgb(0,0,0)" font-family="#sans serif" font-size="16" font-style="normal" font-weight="normal" height="40" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="165" x="21" y="245">
 										PropertyTextSource:a6wj51
 										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 									</textArea>
+									<image height="272" ns:href="Object_DriverStakeholder_umut_3939458617-1.png" sym:scale="0.199219,0.177083" width="204" x="1" y="1">
+										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+									</image>
 								</svg>
 							</objectSymbol>
-							<icon offset="30,15" xmlns="http://www.metacase.com/icon">
-								<svg baseProfile="tiny" height="137" version="1.2" width="152" xmlns="http://www.w3.org/2000/svg">
-									<image height="122" ns:href="Object_DriverStakeholder_umut_3939458617-Icon-1.png" sym:scale="1,1" width="122" x="30" y="15"></image>
+							<icon offset="50,25" xmlns="http://www.metacase.com/icon">
+								<svg baseProfile="tiny" height="141" version="1.2" width="150" xmlns="http://www.w3.org/2000/svg">
+									<image height="116" ns:href="Object_DriverStakeholder_umut_3939458617-Icon-1.png" sym:scale="1,1" width="100" x="50" y="25"></image>
 								</svg>
 							</icon>
 						</object>
@@ -783,8 +783,8 @@
 								</svg>
 							</objectSymbol>
 							<icon offset="50,50" xmlns="http://www.metacase.com/icon">
-								<svg baseProfile="tiny" height="157" version="1.2" width="148" xmlns="http://www.w3.org/2000/svg">
-									<image height="107" ns:href="Object_OtherStakeholder_umut_3939459204-Icon-1.png" sym:scale="1,1" width="98" x="50" y="50"></image>
+								<svg baseProfile="tiny" height="194" version="1.2" width="183" xmlns="http://www.w3.org/2000/svg">
+									<image height="144" ns:href="Object_OtherStakeholder_umut_3939459204-Icon-1.png" sym:scale="1,1" width="133" x="50" y="50"></image>
 								</svg>
 							</icon>
 						</object>
@@ -796,21 +796,21 @@
 								<object href="#Object_Stakeholder_umut_3939458441"></object>
 							</superType>
 							<identProp slotID="a6wj51"></identProp>
-							<objectSymbol offset="50,1" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
-								<defaultConnectable isSticky="true" points="50,5 180,5 180,155 50,155 50,5" targetPointX="115" targetPointY="80.5173" usesGrid="false"></defaultConnectable>
-								<svg baseProfile="tiny" height="155" version="1.2" width="180" xmlns="http://www.w3.org/2000/svg">
-									<textArea display-align="center" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="30" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="120" x="50" y="125">
+							<objectSymbol offset="20,1" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
+								<defaultConnectable isSticky="true" points="46,1 201,1 201,240 46,240 46,1" targetPointX="124" targetPointY="120.5" usesGrid="false"></defaultConnectable>
+								<svg baseProfile="tiny" height="240" version="1.2" width="225" xmlns="http://www.w3.org/2000/svg">
+									<textArea display-align="center" fill="rgb(0,0,0)" font-family="#sans serif" font-size="16" font-style="normal" font-weight="normal" height="30" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="205" x="20" y="210">
 										PropertyTextSource:a6wj51
 										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 									</textArea>
-									<image height="120" ns:href="Object_ParkingControllerStakeholder_umut_3939458966-1.png" sym:scale="0.952381,0.952381" width="120" x="60" y="1">
+									<image height="205" ns:href="Object_ParkingControllerStakeholder_umut_3939458966-1.png" sym:scale="0.230312,0.218085" width="155" x="46" y="1">
 										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 									</image>
 								</svg>
 							</objectSymbol>
 							<icon offset="50,50" xmlns="http://www.metacase.com/icon">
-								<svg baseProfile="tiny" height="176" version="1.2" width="176" xmlns="http://www.w3.org/2000/svg">
-									<image height="126" ns:href="Object_ParkingControllerStakeholder_umut_3939458966-Icon-1.png" sym:scale="1,1" width="126" x="50" y="50"></image>
+								<svg baseProfile="tiny" height="990" version="1.2" width="723" xmlns="http://www.w3.org/2000/svg">
+									<image height="940" ns:href="Object_ParkingControllerStakeholder_umut_3939458966-Icon-1.png" sym:scale="1,1" width="673" x="50" y="50"></image>
 								</svg>
 							</icon>
 						</object>
@@ -822,21 +822,21 @@
 								<object href="#Object_Stakeholder_umut_3939458441"></object>
 							</superType>
 							<identProp slotID="a6wj51"></identProp>
-							<objectSymbol offset="50,5" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
-								<defaultConnectable isSticky="true" points="65,5 155,5 155,160 65,160 65,5" targetPointX="110" targetPointY="83.0345" usesGrid="false"></defaultConnectable>
-								<svg baseProfile="tiny" height="160" version="1.2" width="170" xmlns="http://www.w3.org/2000/svg">
-									<textArea display-align="center" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="35" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="120" x="50" y="125">
+							<objectSymbol offset="15,1" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
+								<defaultConnectable isSticky="true" points="40,10 150,10 150,155 40,155 40,10" targetPointX="95.3691" targetPointY="82.5" usesGrid="false"></defaultConnectable>
+								<svg baseProfile="tiny" height="155" version="1.2" width="175" xmlns="http://www.w3.org/2000/svg">
+									<textArea display-align="center" fill="rgb(0,0,0)" font-family="#sans serif" font-size="16" font-style="normal" font-weight="normal" height="25" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="160" x="15" y="130">
 										PropertyTextSource:a6wj51
 										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 									</textArea>
-									<image height="120" ns:href="Object_ParkingManagerStakeholder_umut_3939459157-1.png" sym:scale="1.08108,1.08108" width="120" x="50" y="5">
+									<image height="139" ns:href="Object_ParkingManagerStakeholder_umut_3939459157-1.png" sym:scale="0.145508,0.135742" width="149" x="21" y="1">
 										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 									</image>
 								</svg>
 							</objectSymbol>
 							<icon offset="50,50" xmlns="http://www.metacase.com/icon">
-								<svg baseProfile="tiny" height="161" version="1.2" width="161" xmlns="http://www.w3.org/2000/svg">
-									<image height="111" ns:href="Object_ParkingManagerStakeholder_umut_3939459157-Icon-1.png" sym:scale="1,1" width="111" x="50" y="50"></image>
+								<svg baseProfile="tiny" height="395" version="1.2" width="410" xmlns="http://www.w3.org/2000/svg">
+									<image height="345" ns:href="Object_ParkingManagerStakeholder_umut_3939459157-Icon-1.png" sym:scale="0.351563,0.336914" width="360" x="50" y="50"></image>
 								</svg>
 							</icon>
 						</object>
@@ -844,25 +844,25 @@
 				</property>
 			</slot>
 			<identProp slotID="ajwym8"></identProp>
-			<objectSymbol offset="1,30" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
-				<defaultConnectable isSticky="true" points="35,30 115,30 115,115 35,115 35,30" targetPointX="75.3809" targetPointY="73.0667" usesGrid="false"></defaultConnectable>
-				<svg baseProfile="tiny" height="120" version="1.2" width="150" xmlns="http://www.w3.org/2000/svg">
-					<image height="60" ns:href="Object_ExternalStakeholder_umut_3939468470-1.png" sym:scale="1,1" width="51" x="50" y="30">
-						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
-					</image>
-					<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="15" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="149" x="1" y="90">
+			<objectSymbol offset="16,30" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
+				<defaultConnectable isSticky="true" points="40,30 135,30 135,155 40,155 40,30" targetPointX="87.9524" targetPointY="93.3333" usesGrid="false"></defaultConnectable>
+				<svg baseProfile="tiny" height="160" version="1.2" width="165" xmlns="http://www.w3.org/2000/svg">
+					<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="15" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="149" x="16" y="130">
 						PropertyTextSource:ajwym8
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</textArea>
-					<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="15" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="80" x="35" y="105">
+					<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="15" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="80" x="50" y="145">
 						(Context)
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</textArea>
+					<image height="96" ns:href="Object_ExternalStakeholder_umut_3939468470-1.png" sym:scale="0.0789474,0.0786885" width="90" x="40" y="30">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</image>
 				</svg>
 			</objectSymbol>
 			<icon offset="50,50" xmlns="http://www.metacase.com/icon">
-				<svg baseProfile="tiny" height="110" version="1.2" width="101" xmlns="http://www.w3.org/2000/svg">
-					<image height="60" ns:href="Object_ExternalStakeholder_umut_3939468470-Icon-1.png" sym:scale="1,1" width="51" x="50" y="50"></image>
+				<svg baseProfile="tiny" height="1270" version="1.2" width="1190" xmlns="http://www.w3.org/2000/svg">
+					<image height="1220" ns:href="Object_ExternalStakeholder_umut_3939468470-Icon-1.png" sym:scale="1,1" width="1140" x="50" y="50"></image>
 				</svg>
 			</icon>
 		</object>
@@ -887,25 +887,25 @@
 								<property href="#Property_Description_umut_3939578622"></property>
 							</slot>
 							<identProp slotID="a3waxm"></identProp>
-							<objectSymbol offset="100,30" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
-								<defaultConnectable isSticky="true" points="135,30 260,30 260,160 135,160 135,30" targetPointX="197.914" targetPointY="95" usesGrid="false"></defaultConnectable>
-								<svg baseProfile="tiny" height="165" version="1.2" width="290" xmlns="http://www.w3.org/2000/svg">
-									<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="12" font-style="normal" font-weight="normal" height="25" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="190" x="100" y="140">
+							<objectSymbol offset="25,60" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
+								<defaultConnectable isSticky="true" points="75,55 200,55 200,205 75,205 75,55" targetPointX="137.914" targetPointY="130" usesGrid="false"></defaultConnectable>
+								<svg baseProfile="tiny" height="210" version="1.2" width="245" xmlns="http://www.w3.org/2000/svg">
+									<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="12" font-style="normal" font-weight="normal" height="25" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="190" x="40" y="185">
 										ReportTextSource:'[Technologies: '  :Technology ']'
 										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 									</textArea>
-									<textArea display-align="center" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="15" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="190" x="100" y="125">
+									<textArea display-align="center" fill="rgb(0,0,0)" font-family="#sans serif" font-size="16" font-style="normal" font-weight="normal" height="15" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="220" x="25" y="170">
 										PropertyTextSource:a3waxm
 										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 									</textArea>
-									<image height="93" ns:href="Object_External_Stakeholder_umut_3939453139-1.png" sym:scale="2.86111,2.58333" width="103" x="145" y="30">
+									<image height="110" ns:href="Object_External_Stakeholder_umut_3939453139-1.png" sym:scale="0.145482,0.122631" width="95" x="90" y="60">
 										<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 									</image>
 								</svg>
 							</objectSymbol>
 							<icon offset="50,50" xmlns="http://www.metacase.com/icon">
-								<svg baseProfile="tiny" height="86" version="1.2" width="86" xmlns="http://www.w3.org/2000/svg">
-									<image height="36" ns:href="Object_External_Stakeholder_umut_3939453139-Icon-1.png" sym:scale="1,1" width="36" x="50" y="50"></image>
+								<svg baseProfile="tiny" height="947" version="1.2" width="703" xmlns="http://www.w3.org/2000/svg">
+									<image height="897" ns:href="Object_External_Stakeholder_umut_3939453139-Icon-1.png" sym:scale="1,1" width="653" x="50" y="50"></image>
 								</svg>
 							</icon>
 						</object>
@@ -913,12 +913,9 @@
 				</property>
 			</slot>
 			<identProp slotID="alwypw"></identProp>
-			<objectSymbol offset="1,40" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
+			<objectSymbol offset="1,35" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
 				<defaultConnectable isSticky="true" points="40,35 90,35 90,95 40,95 40,35" targetPointX="65" targetPointY="65" usesGrid="false"></defaultConnectable>
 				<svg baseProfile="tiny" height="100" version="1.2" width="131" xmlns="http://www.w3.org/2000/svg">
-					<image height="35" ns:href="Object_ExternalSystemRef_umut_3939468641-1.png" sym:scale="1.11111,0.972222" width="40" x="45" y="40">
-						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
-					</image>
 					<textArea display-align="after" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="10" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="130" x="1" y="75">
 						PropertyTextSource:alwypw
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
@@ -927,11 +924,14 @@
 						(Context)
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</textArea>
+					<image height="40" ns:href="Object_ExternalSystemRef_umut_3939468641-1.png" sym:scale="0.0459418,0.0445931" width="30" x="50" y="35">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</image>
 				</svg>
 			</objectSymbol>
 			<icon offset="50,50" xmlns="http://www.metacase.com/icon">
-				<svg baseProfile="tiny" height="86" version="1.2" width="86" xmlns="http://www.w3.org/2000/svg">
-					<image height="36" ns:href="Object_ExternalSystemRef_umut_3939468641-Icon-1.png" sym:scale="1,1" width="36" x="50" y="50"></image>
+				<svg baseProfile="tiny" height="947" version="1.2" width="703" xmlns="http://www.w3.org/2000/svg">
+					<image height="897" ns:href="Object_ExternalSystemRef_umut_3939468641-Icon-1.png" sym:scale="1,1" width="653" x="50" y="50"></image>
 				</svg>
 			</icon>
 		</object>
@@ -1136,25 +1136,25 @@
 				</object>
 			</superType>
 			<identProp slotID="anxocb"></identProp>
-			<objectSymbol offset="20,20" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
-				<defaultConnectable isSticky="true" points="55,20 130,20 130,104 55,104 55,20" targetPointX="92.5" targetPointY="62" usesGrid="false"></defaultConnectable>
-				<svg baseProfile="tiny" height="140" version="1.2" width="170" xmlns="http://www.w3.org/2000/svg">
-					<textArea display-align="after" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="15" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="125" x="30" y="110">
+			<objectSymbol offset="20,15" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
+				<defaultConnectable isSticky="true" points="55,25 130,25 130,140 55,140 55,25" targetPointX="92.5" targetPointY="82.5" usesGrid="false"></defaultConnectable>
+				<svg baseProfile="tiny" height="155" version="1.2" width="170" xmlns="http://www.w3.org/2000/svg">
+					<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="30" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="130" x="30" y="110">
 						PropertyTextSource:anxocb
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</textArea>
-					<textArea display-align="center" fill="rgb(0,0,0)" font-family="#sans serif" font-size="12" font-style="normal" font-weight="normal" height="15" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="150" x="20" y="125">
+					<textArea display-align="before" fill="rgb(0,0,0)" font-family="#sans serif" font-size="12" font-style="normal" font-weight="normal" height="15" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="150" x="20" y="140">
 						ReportTextSource:'[Technologies: '  :Technology ']'
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</textArea>
-					<image height="85" ns:href="Object_MobileUI_umut_3939485298-1.png" sym:scale="0.671642,0.720339" width="45" x="70" y="20">
+					<image height="105" ns:href="Object_MobileUI_umut_3939485298-1.png" sym:scale="0.0644531,0.0683594" width="66" x="60" y="15">
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</image>
 				</svg>
 			</objectSymbol>
 			<icon offset="50,50" xmlns="http://www.metacase.com/icon">
-				<svg baseProfile="tiny" height="168" version="1.2" width="117" xmlns="http://www.w3.org/2000/svg">
-					<image height="118" ns:href="Object_MobileUI_umut_3939485298-Icon-1.png" sym:scale="1,1" width="67" x="50" y="50"></image>
+				<svg baseProfile="tiny" height="1586" version="1.2" width="1074" xmlns="http://www.w3.org/2000/svg">
+					<image height="1536" ns:href="Object_MobileUI_umut_3939485298-Icon-1.png" sym:scale="1,1" width="1024" x="50" y="50"></image>
 				</svg>
 			</icon>
 		</object>
@@ -1164,7 +1164,7 @@
 				<object href="#Object_UserInterfaceApplication_umut_3939485147"></object>
 			</superType>
 			<identProp slotID="anxocb"></identProp>
-			<objectSymbol offset="35,45" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
+			<objectSymbol offset="35,40" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
 				<defaultConnectable isSticky="true" points="55,45 135,45 135,135 55,135 55,45" targetPointX="95" targetPointY="90.7627" usesGrid="false"></defaultConnectable>
 				<svg baseProfile="tiny" height="145" version="1.2" width="160" xmlns="http://www.w3.org/2000/svg">
 					<textArea display-align="after" fill="rgb(0,0,0)" font-family="#sans serif" font-size="14" font-style="normal" font-weight="normal" height="15" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="125" x="35" y="105">
@@ -1175,14 +1175,14 @@
 						ReportTextSource:'[Technologies: '  :Technology ']'
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</textArea>
-					<image height="60" ns:href="Object_WebUI_umut_3939485203-1.png" sym:scale="0.598291,0.6" width="70" x="60" y="45">
+					<image height="75" ns:href="Object_WebUI_umut_3939485203-1.png" sym:scale="0.078125,0.0732422" width="80" x="55" y="40">
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</image>
 				</svg>
 			</objectSymbol>
 			<icon offset="50,50" xmlns="http://www.metacase.com/icon">
-				<svg baseProfile="tiny" height="150" version="1.2" width="167" xmlns="http://www.w3.org/2000/svg">
-					<image height="100" ns:href="Object_WebUI_umut_3939485203-Icon-1.png" sym:scale="1,1" width="117" x="50" y="50"></image>
+				<svg baseProfile="tiny" height="1074" version="1.2" width="1074" xmlns="http://www.w3.org/2000/svg">
+					<image height="1024" ns:href="Object_WebUI_umut_3939485203-Icon-1.png" sym:scale="1,1" width="1024" x="50" y="50"></image>
 				</svg>
 			</icon>
 		</object>
@@ -1232,21 +1232,21 @@
 				<property href="#Property_Description_umut_3939578622"></property>
 			</slot>
 			<identProp slotID="a2w9nu"></identProp>
-			<objectSymbol offset="190,60" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
-				<defaultConnectable isSticky="true" points="190,110 510,110 510,620 190,620 190,110" targetPointX="350" targetPointY="365" usesGrid="false"></defaultConnectable>
-				<svg baseProfile="tiny" height="620" version="1.2" width="510" xmlns="http://www.w3.org/2000/svg">
-					<image height="540" ns:href="Object_SPMS_umut_3939452280-1.png" sym:scale="2.73504,3.27273" width="320" x="190" y="60">
-						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
-					</image>
-					<textArea display-align="center" fill="rgb(0,0,0)" font-family="#sans serif" font-size="18" font-style="normal" font-weight="bold" height="20" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="240" x="230" y="600">
+			<objectSymbol offset="160,50" scaleFilter="1,1" xmlns="http://www.metacase.com/symbol">
+				<defaultConnectable isSticky="true" points="205,110 495,110 495,615 205,615 205,110" targetPointX="350" targetPointY="362.5" usesGrid="false"></defaultConnectable>
+				<svg baseProfile="tiny" height="652" version="1.2" width="540" xmlns="http://www.w3.org/2000/svg">
+					<textArea display-align="center" fill="rgb(0,0,0)" font-family="#sans serif" font-size="20" font-style="normal" font-weight="bold" height="30" sym:characterBackgroundFill="none" sym:textboxFill="none" sym:textboxStroke="none" sym:textboxStroke-width="1" sym:wordWrap="true" text-anchor="middle" width="240" x="230" y="585">
 						PropertyTextSource:a2w9nu
 						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
 					</textArea>
+					<image height="602" ns:href="Object_SPMS_umut_3939452280-1.png" sym:scale="0.371094,0.391927" width="380" x="160" y="50">
+						<metaInfo xmlns="http://www.metacase.com/symbol"></metaInfo>
+					</image>
 				</svg>
 			</objectSymbol>
 			<icon offset="50,50" xmlns="http://www.metacase.com/icon">
-				<svg baseProfile="tiny" height="215" version="1.2" width="167" xmlns="http://www.w3.org/2000/svg">
-					<image height="165" ns:href="Object_SPMS_umut_3939452280-Icon-1.png" sym:scale="1,1" width="117" x="50" y="50"></image>
+				<svg baseProfile="tiny" height="1586" version="1.2" width="1074" xmlns="http://www.w3.org/2000/svg">
+					<image height="1536" ns:href="Object_SPMS_umut_3939452280-Icon-1.png" sym:scale="1,1" width="1024" x="50" y="50"></image>
 				</svg>
 			</icon>
 		</object>
